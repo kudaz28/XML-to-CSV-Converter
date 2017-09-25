@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+        <entry key="type">orgrma:orgFolder</entry>
+        <entry key="aspects">orgrma:orgFolderSpecificComponent,sys:referenceable,cm:titled,orgrma:orgNumbering,sys:localized,orgrma:folderRepositoryAspect,orgrma:folderType,orgrma:miscellaneousComponent,orgrma:physicalObject,cm:auditable,orgrma:protectiveMarkingComponent,sys:incomplete,orgrma:orgObjectComponent</entry>
+        <entry key="cm:modified">2015-06-12T05:45:52.881+00:00</entry>
+        <entry key="orgrma:disposition">Active</entry>
+        <entry key="orgrma:foreignBarcode">339243$1</entry>
+        <entry key="cm:name">PBOA-201-01085-C CASE FOLDER</entry>
+        <entry key="orgrma:dateClosed">2010-03-30T02:00:00.000+00:00</entry>
+        <entry key="orgrma:lastActionDate">2013-01-28T03:42:00.000+00:00</entry>
+        <entry key="sys:store-protocol">workspace</entry>
+        <entry key="sys:locale">en_US</entry>
+        <entry key="orgrma:recordURI">693549</entry>
+        <entry key="orgrma:movementHistory">PBOA/201/01085C Current Location Changed - TNT  - done by 'PFS' on 28/01/2013 at 15:42
+PBOA/201/01085C Current Location Changed - Central File Store  - on 20/01/2003 at 15:29</entry>
+        <entry key="orgrma:numericClass">PBOA/201/01085C</entry>
+        <entry key="cm:description">Migration-Run-593
+Migration Server DMMAT01
+Migration Date 27/02/2003
+Management Unit LEGALD
+Migrated Previous Reference None
+Migrated Related Files
+    PN9674C
+
+''22 June 2009 at 10:59:26 (GMT+01:00)   Grayson, Stuart (Mr):''
+Steve Gleeson added to access controls 22 June 2009 by request Ashfaq Rashid for the period of 23 June to 25 June. This is a request purely for training purposes and therefore it is essential the end date is adhered to.
+
+
+''30 March 2010 at 15:23:13 (GMT+01:00)   Smith, Mark (Mr):''
+See e-mail dated 30/03/2010 - Relating to all the open Legal A Prosecution files to be closed agreed with the Legal A IM.
+
+''24 August 2010 at 09:24:56 (GMT+01:00)   Wilson, Kay:''
+TNAReview</entry>
+        <entry key="cm:creator">admin</entry>
+        <entry key="cm:created">2014-07-23T03:49:15.449+00:00</entry>
+        <entry key="orgrma:folderTypeIndicator">G</entry>
+        <entry key="orgrma:name">CASE FOLDER</entry>
+        <entry key="cm:title">PROSECUTION CASES A - ANNUAL FILES 2001 - Littlejohn (UK) Ltd;  John Grant Wake</entry>
+        <entry key="orgrma:priorProtectiveMarking">RESTRICTED</entry>
+        <entry key="orgrma:physicalFormat">Yes</entry>
+        <entry key="cm:modifier">System</entry>
+        <entry key="sys:store-identifier">SpacesStore</entry>
+        <entry key="orgrma:historicalBarcode">RM1000EV59</entry>
+        <entry key="orgrma:barcode">RM1000EV59</entry>
+</properties>
